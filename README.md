@@ -1,7 +1,7 @@
 # Mystery Physics
-Mystery Physics is a virtual reality game developed for the new [Oculus Quest](https://www.oculus.com/quest/)
-in [Unity](http://unity.com/). The goal of the game is to solve a puzzle by manipulating
-fundamental physical principles like gravity and magnetism.
+Mystery Physics is a virtual reality game developed in [Unity](http://unity.com/) for the
+new [Oculus Quest](https://www.oculus.com/quest/). The goal of the game is to solve a puzzle
+by manipulating fundamental physical principles like gravity and magnetism.
 
 **This game is only a proof of concept and not yet performant!**
 
@@ -32,7 +32,7 @@ Clone the repository, open the project with Unity 2019.1.14f1 and build it.
   - Scripting Runtime: **.NET 3.5**
   - API-Level: **.NET 2.0 Subset**
 - **Visual Studio** for Mac Community v8.3.10 (build 2)
-- Developed for the **[Oculust Quest](https://www.oculus.com/quest/)**
+- Developed for the **[Oculus Quest](https://www.oculus.com/quest/)**
 
 ## License
 This project is licensed under the BSD 2-Clause License - see the [LICENSE.md](LICENSE.md) file for more information.
