@@ -1,3 +1,6 @@
+:bangbang: **This project is dead! Click [here](https://github.com/5ahmnm1920-mep3-G2/VRProject2-vTschopp)
+for the new attempt.**
+
 # Mystery Physics
 Mystery Physics is a virtual reality game developed in [Unity](http://unity.com/) for the
 new [Oculus Quest](https://www.oculus.com/quest/). The goal of the game is to solve a puzzle
